@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import './App.css'
 import tasks from './sample/task.json'
 import Tasks from './components/tasks'
 import TaskForm from './components/TaskForm'
